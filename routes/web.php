@@ -1,5 +1,6 @@
 <?php
 
+use Inertia\Inertia;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -14,5 +15,11 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return Inertia::render('Users/Index', [
+        'name' => 'Gabriel'
+    ]);
 });
+
+// Route::get('/', function () {
+//     return view('welcome');
+// });
