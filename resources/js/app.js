@@ -6,6 +6,11 @@ import { Quasar } from 'quasar';
 // Import Quasar css
 import 'quasar/src/css/index.sass'
 
+//Import Quasar icons-set
+import '@quasar/extras/fontawesome-v5/fontawesome-v5.css'
+
+import '../css/app.css'
+
 createInertiaApp({
   resolve: (name) => resolvePageComponent(`./Pages/${name}.vue`, import.meta.glob('./Pages/**/*.vue')),
   setup({ el, App, props, plugin }) {

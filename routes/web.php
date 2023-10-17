@@ -15,10 +15,18 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return Inertia::render('Users/Index', [
-        'name' => 'Gabriel'
+    return Inertia::render('Index', [
+        'title'=> 'Home',
+        'name' => 'Anon'
     ]);
 });
+
+Route::get('/secondLink', function () {
+    return Inertia::render('SecondPage', [
+        'title'=> 'SecondPage',
+    ]);
+});
+
 
 // Route::get('/', function () {
 //     return view('welcome');
