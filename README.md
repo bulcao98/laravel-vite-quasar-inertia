@@ -1,3 +1,4 @@
+
 # Laravel + Vite + Quasar + Inertia Boilerplate
 ![PHP](https://img.shields.io/badge/php-^8.1-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-^3.3.4-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
@@ -71,7 +72,7 @@ Remember to configure your web server to serve the files from the public directo
 
 For more information on deploying Laravel applications, refer to the official Laravel deployment documentation. If you encounter any issues during the deployment process, consult the documentation for the specific technologies used in this boilerplate, including Vite, Quasar Framework, and Inertia.js.
 
-##Documentation
+## Documentation
 
 For detailed information on each technology used in this boilerplate, refer to their respective documentation:
 
