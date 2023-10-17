@@ -16,7 +16,7 @@
         <q-drawer show-if-above v-model="leftDrawerOpen" side="left" bordered>
             <q-item>
                 <q-item-section avatar>
-                  <q-icon name="fa fa-home" />
+                    <q-icon name="fa fa-home" />
                 </q-item-section>
                 <q-item-section>
                     <Link class="" href="/">Home</Link>
@@ -25,7 +25,7 @@
 
             <q-item>
                 <q-item-section avatar>
-                  <q-icon name="fa fa-wrench" />
+                    <q-icon name="fa fa-wrench" />
                 </q-item-section>
                 <q-item-section>
                     <Link class="" href="/secondLink">Second Page</Link>
