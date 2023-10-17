@@ -5,6 +5,7 @@
 ![Vite](https://img.shields.io/badge/vite-^4.0.0-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Quasar](https://img.shields.io/badge/Quasar-^2.12.7-16B7FB?style=for-the-badge&logo=quasar&logoColor=black)
 ![Inertia](https://img.shields.io/badge/Inertia-^1.0.12-8569ec?style=for-the-badge&logo=Inertia&logoColor=fff)
+
 A powerful boilerplate for modern web application development, combining the strengths of Laravel, Vite, Quasar, and Inertia.js.
 
 ## Features
