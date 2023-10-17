@@ -1,5 +1,10 @@
 # Laravel + Vite + Quasar + Inertia Boilerplate
-
+![PHP](https://img.shields.io/badge/php-^8.1-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-^3.3.4-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Laravel](https://img.shields.io/badge/laravel-^10.10-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-^4.0.0-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Quasar](https://img.shields.io/badge/Quasar-^2.12.7-16B7FB?style=for-the-badge&logo=quasar&logoColor=black)
+![Inertia](https://img.shields.io/badge/Inertia-^1.0.12-8569ec?style=for-the-badge&logo=Inertia&logoColor=fff)
 A powerful boilerplate for modern web application development, combining the strengths of Laravel, Vite, Quasar, and Inertia.js.
 
 ## Features
